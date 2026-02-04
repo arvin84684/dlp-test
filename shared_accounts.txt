@@ -1,0 +1,67 @@
+共享服务平台账户信息（模拟数据）
+=================================
+平台: 视频流媒体服务
+账号: premium_user_001@example.com
+密码: TempPass123!
+共享人数: 4人
+有效期: 2024-12-31
+
+平台: 办公软件订阅
+账号: team_collab_2024
+密码: SecureP@ss456
+共享人数: 6人
+有效期: 2024-06-30
+
+平台: 音乐流媒体
+账号: family_music_plan
+密码: Music2024$hare
+共享人数: 5人
+有效期: 2024-09-15
+
+平台: 云存储服务
+账号: cloud_group_01
+密码: Cl0ud$haring789
+共享人数: 3人
+有效期: 2024-12-01
+
+平台: 在线学习平台
+账号: edu_team_access
+密码: Learn!ng2024
+共享人数: 8人
+有效期: 2024-08-20
+
+平台: 项目管理工具
+账号: project_team_alpha
+密码: Pr0jectM@nager
+共享人数: 10人
+有效期: 2024-11-30
+
+平台: 设计软件订阅
+账号: creative_suite_group
+密码: D3s!gnT00l$
+共享人数: 3人
+有效期: 2024-07-15
+
+平台: VPN服务
+账号: vpn_shared_account
+密码: Vpn$hared2024
+共享人数: 5人
+有效期: 2024-10-10
+
+平台: 游戏平台订阅
+账号: gaming_family_pack
+密码: Gam3r$hare!
+共享人数: 4人
+有效期: 2024-12-25
+
+平台: 电子书服务
+账号: ebook_reading_group
+密码: Read!ng2024
+共享人数: 6人
+有效期: 2024-05-31
+
+平台: 新闻订阅服务
+账号: news_subscription_team
+密码: N3ws2024$hare
+共享人数: 7人
+有效期: 2024-11-15
